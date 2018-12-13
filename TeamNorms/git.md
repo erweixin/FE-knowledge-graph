@@ -54,6 +54,7 @@ header 部分由 `type` (必需）、`scope` (可选) 和 `subject` (必需) 3�
 ## git 分支规范
 
 图源（[ A successful Git branching model ](https://nvie.com/posts/a-successful-git-branching-model/)）
+
 ![分支规范](../images/TeamNorms/git-model.png)
 
 下面详细介绍下各个分支以及合并的注意事项。
@@ -113,6 +114,7 @@ rebase 命令可能会更改分支的提交记录，严禁在多人同时使用�
 ![git merge --no-ff 与 get merge 的比较](../images/TeamNorms/git-merge.jpg)
 
 以上，采用了 commit 规范、branch 规范和合并规范后，我们能够实现一个具有可读性的 git commit 信息流：每个功能点的 commit 记录在一条分支上，通过 commit 记录的信息能够还原整个开发过程。
+
 ![git merge --no-ff 与 get merge 的比较](../images/TeamNorms/git-branch.png)
 
 ## 附录：git 常用进阶命令
