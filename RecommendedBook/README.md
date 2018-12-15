@@ -13,9 +13,19 @@
 | [你不知道的 JavaScript（下卷）](https://book.douban.com/subject/27620408/) | 该卷知识点较繁杂，也有对上两卷的总结。可作为阅读参考 | 7分
 | [深入浅出 Node.js](https://book.douban.com/subject/25768396/) | 国内较为优秀的 node.js 相关图书之一，虽然 node.js 一些 API 已变动，但此书对 node.js 整体知识架构的梳理对初学者很有帮助。期待新版 | 8分
 | [深入浅出RxJS](https://book.douban.com/subject/30217949/) | 由于 RxJS 适用场景不广加上本身上手难度较高，导致了 RxJS 的学习资料较少，这本书以比较通俗易懂的知识入手，比较适合 RxJS 入门和进阶 | 8分
+| [JavaScript DOM编程艺术 （第2版）](https://book.douban.com/subject/6038371/) | 比较适合新手入门，算是前端最佳入门书籍之一，虽然因为出版年代久远，书中部分 API 已过时，但思想与解决问题的方式值得借鉴 | 8分 |
 
 ## 数据结构与算法相关书籍
 
 | 书名 | 简介 | 推荐指数 |
 |-|-|-|
 | [啊哈！算法](https://book.douban.com/subject/25894685/) | 比较通俗易懂的算法入门书。适合非科班出身入门算法。| 7分
+
+## 后端相关书籍
+
+| 书名 | 简介 | 推荐指数 |
+|-|-|-|
+| [Docker技术入门与实战（第2版）](https://book.douban.com/subject/28489095/) | 适用于docker入门，可深入理解 docker 容器及相关概念，配合 docker 文档食用，现已有[第三版](https://item.jd.com/12453318.html#crumb-wrap)。 | 6分 |
+
+## 推荐视频
+
