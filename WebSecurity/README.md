@@ -2,6 +2,6 @@
 
 ## TODO LIST
 
-- [ ] XSS
+- [x] XSS
 - [ ] CSRF
 - [ ] SQL注入
