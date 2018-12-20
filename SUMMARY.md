@@ -7,5 +7,8 @@
 - [团队规范](/TeamNorms/README.md)
   - [git 规范](/TeamNorms/git.md)
 - [flutter](/Flutter/README.md)
+- [web 安全](/WebSecurity/README.md)
+  - [xss 漏洞攻击与防御](/WebSecurity/XSS.md)
+- [http](/Http/README.md)
 - [源码解读](/SourceCode/README.md)
 - [推荐书籍](/RecommendedBook/README.md)
