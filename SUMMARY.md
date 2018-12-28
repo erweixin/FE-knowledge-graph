@@ -4,6 +4,7 @@
 - [CSS](/CSS/README.md)
 - [Node.js](/Node/README.md)
 - [数据结构与算法](/DataStructureAndAlgorithm/README.md)
+- [前端工程化](/FrontEndEngineering/README.md)
 - [团队规范](/TeamNorms/README.md)
   - [git 规范](/TeamNorms/git.md)
 - [flutter](/Flutter/README.md)
